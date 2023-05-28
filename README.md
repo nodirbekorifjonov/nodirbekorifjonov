@@ -1,5 +1,4 @@
 ### Hi, I'm Nodirbek Orifjonov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
-I study in 11<sup>th</sup> grade at school <br /><br />
 I am:
 <ul>
   <li>Frontend Developer</li>
