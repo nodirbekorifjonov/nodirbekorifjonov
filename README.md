@@ -3,6 +3,7 @@ I am:
 <ul>
   <li>Frontend Developer</li>
   <li>Graphic Designer</li>
+  <li>Video Editor</li>
 </ul>
 
 <a href="https://t.me/nodirbekorifjonov" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25px"></a>
