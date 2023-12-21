@@ -4,7 +4,7 @@
 
 # Hello, World! 🌍
 
-I'm [Your Name], a passionate Frontend Developer on a mission to make the web a more delightful place. ✨
+I'm Nodirbek, a passionate Frontend Developer on a mission to make the web a more delightful place. ✨
 
 ## 🚀 About Me
 
@@ -16,8 +16,8 @@ I'm [Your Name], a passionate Frontend Developer on a mission to make the web a 
 ## 🔧 Tech Stack
 
 - 💡 HTML, CSS, JavaScript
-- ⚛️ React.js, Vue.js
-- 🚀 [Add any other technologies or frameworks you specialize in]
+- ⚛️ React.js
+- 🚀 HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Vite, Webpack, Material UI
 
 ## 🌟 GitHub Stats
 
@@ -29,9 +29,9 @@ I'm [Your Name], a passionate Frontend Developer on a mission to make the web a 
 
 ## 🌐 Let's Connect
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- 📧 Email: nodirbekorifjonov@mail.ru
+- 💼 LinkedIn: (www.linkedin.com/in/nodirbek-orifjonov-aa1405291)
+- 🐦 Instagram: (https://instagram.com/nodirbekdev)
 
 ## 🎉 Let's Code Together
 
