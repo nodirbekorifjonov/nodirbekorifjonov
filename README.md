@@ -37,7 +37,7 @@ I'm Nodirbek, a passionate Frontend Developer on a mission to make the web a mor
 
 Feel free to explore my repositories and connect with me. Let's collaborate and build something amazing! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=nodirbekorifjonov&color=brightgreen)
 
 <!-- Add any other sections or customizations you desire -->
 
