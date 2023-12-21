@@ -25,7 +25,7 @@ I'm Nodirbek, a passionate Frontend Developer on a mission to make the web a mor
 
 ## 📈 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbekorifjonov&layout=compact&theme=radical)](https://github.com/your-username)
 
 ## 🌐 Let's Connect
 
