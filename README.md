@@ -16,7 +16,7 @@ I'm Nodirbek, a passionate Frontend Developer on a mission to make the web a mor
 ## 🔧 Tech Stack
 
 - 💡 HTML, CSS, JavaScript
-- ⚛️ React.js
+- ⚛️ React.js, Vue.js
 - 🚀 HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Vite, Webpack, Material UI
 
 ## 🌟 GitHub Stats
