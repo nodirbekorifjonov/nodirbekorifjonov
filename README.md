@@ -48,11 +48,10 @@ I create clean and user-friendly interfaces using Vue, React, and Next.js. I als
 </table>
 
 ### GitHub Metrics
+### GitHub Metrics
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nodirbekorifjonov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbekorifjonov&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodirbekorifjonov&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbekorifjonov&layout=compact&theme=dark&hide_border=true)
 
 ### Contact
 
