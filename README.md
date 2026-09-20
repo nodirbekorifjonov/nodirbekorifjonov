@@ -38,14 +38,13 @@ I create clean and user-friendly interfaces using Vue, React, and Next.js. I als
       <br />
       <sub><b>Qizlar Akademiyasi</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140">
       <img src="https://github.com/YetakchilarPlatformasi.png" width="72" height="72" alt="Yetakchilar Platformasi" />
       <br />
       <sub><b>Yetakchilar Platformasi</b></sub>
     </td>
   </tr>
+    
 </table>
 
 ### GitHub Metrics
