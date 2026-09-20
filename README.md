@@ -1,44 +1,86 @@
-<!-- ### Hi there 👋 -->
+<div align="center">
+  
+  # 👋 Hi, I'm Nodirbek Orifjonov!
 
-<!-- Introduce yourself with a catchy greeting or tagline -->
+  **Frontend Developer** · Tashkent, Uzbekistan 🇺🇿
 
-# Hello, World! 🌍
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Crafting+beautiful+%26+responsive+UIs;Vue+%7C+React+%7C+Next.js+%7C+TypeScript;Always+learning%2C+always+building" alt="Typing SVG" />
 
-I'm Nodirbek, a passionate Frontend Developer on a mission to make the web a more delightful place. ✨
+  <br><br>
 
-## 🚀 About Me
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheFrontDev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nodirbek-orifjonov-aa1405291)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nodirbek.orifjon0v)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nodirbekorifjonov@mail.ru)
 
-- 💻 Coding is my passion, and pixels are my playground.
-- 🌱 I'm constantly learning and evolving with the ever-changing tech landscape.
-- 🎨 Design enthusiast with a keen eye for aesthetics.
-- 🎸 When I'm not coding, you can find me strumming my guitar or exploring the great outdoors.
+</div>
 
-## 🔧 Tech Stack
+---
 
-- 💡 HTML, CSS, JavaScript
-- ⚛️ React.js, Vue.js
-- 🚀 HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, Vite, Webpack, Material UI
+### 🚀 About Me
 
-## 🌟 GitHub Stats
+- 💻 **Frontend Developer** passionate about building pixel-perfect, responsive, and modern user interfaces
+- 🌱 Currently working with **Next.js**, **Vue 3**, **TypeScript**, and **Supabase** on real-world projects
+- 🎨 Strong focus on clean UI/UX and attention to detail
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodirbekorifjonov&show_icons=true&count_private=true&hide=issues&theme=radical)](https://github.com/nodirbekorifjonov)
+---
 
-## 📈 My Top Languages
+### 🛠️ Tech Stack
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbekorifjonov&layout=compact&theme=radical)](https://github.com/your-username)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,tailwind,sass,bootstrap,vite,nodejs,supabase,git,github,vercel,figma" />
+</p>
 
-## 🌐 Let's Connect
+**Core Technologies:**
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript  
+- **Frameworks:** React, Vue 3, Next.js, Nuxt 3  
+- **Styling:** Tailwind CSS, SASS, Bootstrap, Material UI  
+- **Tools:** Vite, Webpack, Git, Figma  
+- **Backend / BaaS:** Supabase (Auth, PostgreSQL, RLS)
 
-- 📧 Email: nodirbekorifjonov@mail.ru
-- 💼 LinkedIn: (www.linkedin.com/in/nodirbek-orifjonov-aa1405291)
-- 🐦 Instagram: (https://instagram.com/nodirbekdev)
+---
 
-## 🎉 Let's Code Together
+### 🌟 Featured Projects
 
-Feel free to explore my repositories and connect with me. Let's collaborate and build something amazing! 🚀
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **IWS Dashboard** | Worker management system for a confectionery factory (attendance, payroll, roles) | Next.js 16 · React 19 · TypeScript · Tailwind · Supabase | [Live](https://iws-dashboard-lilac.vercel.app) · [Repo](https://github.com/nodirbekorifjonov/iws-dashboard) |
+| **IWS (Nuxt)** | Same system built with Nuxt 3 | Nuxt 3 · Vue 3 · Tailwind · Supabase | [Live](https://iws-theta.vercel.app) · [Repo](https://github.com/nodirbekorifjonov/iws) |
+| **Kanban Board** | Interactive Kanban task manager | Vue 3 · TypeScript · Vite | [Live](https://kanban-lime-kappa.vercel.app) · [Repo](https://github.com/nodirbekorifjonov/kanban) |
+| **Minimalist Portfolio** | Clean and minimal personal portfolio | HTML · SCSS · Bootstrap | [Repo](https://github.com/nodirbekorifjonov/minimalistportfolio) |
 
-![Profile Views](https://komarev.com/ghpvc/?username=nodirbekorifjonov&color=brightgreen)
+---
 
-<!-- Add any other sections or customizations you desire -->
+### 📊 GitHub Stats
 
-<!-- Special thanks to Anurag Hazra for the GitHub Stats widgets: https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nodirbekorifjonov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbekorifjonov&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirbekorifjonov&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out for collaboration, questions, or just to say hi:
+
+- 📧 **Email:** [nodirbekorifjonov@mail.ru](mailto:nodirbekorifjonov@mail.ru)
+- 💬 **Telegram:** [@nodirbekdev](https://t.me/nodirbekdev)
+- 💼 **LinkedIn:** [nodirbek-orifjonov](https://www.linkedin.com/in/nodirbek-orifjonov-aa1405291)
+- 📸 **Instagram:** [@nodirbekdev](https://instagram.com/nodirbekdev)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nodirbekorifjonov&style=flat-square&color=58A6FF" alt="Profile views" />
+  <br><br>
+  <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
+  <br><br>
+  ⭐️ From [nodirbekorifjonov](https://github.com/nodirbekorifjonov)
+</div>
